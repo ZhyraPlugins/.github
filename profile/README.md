@@ -11,3 +11,7 @@ If you need help or want to get in contact, here is the XivHub.org discord: http
 
 - [PartyPlanner](https://github.com/ZhyraPlugins/PartyPlanner)
 - [MarketUploader](https://github.com/ZhyraPlugins/MarketUploader)
+
+# Work in progress
+
+- [xivhub.org](https://xivhub.org/)
