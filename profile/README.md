@@ -15,3 +15,7 @@ If you need help or want to get in contact, here is the XivHub.org discord: http
 # Work in progress
 
 - [xivhub.org](https://xivhub.org/)
+
+
+# other
+- [crafting.xivhub.org](https://crafting.xivhub.org/)
