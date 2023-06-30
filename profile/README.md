@@ -1,13 +1,11 @@
 # Plugin Repository
 
-Add this to  the dalamud repo list:
-
-`https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json`
-
 ## Discord
 If you need help or want to get in contact, here is the XivHub.org discord: https://discord.gg/GZK9aME8wN
 
-# Plugins
+# Oficial Dalamud Plugins
+
+> Repo not needed for these!
 
 - [PartyPlanner](https://github.com/ZhyraPlugins/PartyPlanner)
 - [MarketUploader](https://github.com/ZhyraPlugins/MarketUploader)
@@ -19,3 +17,7 @@ If you need help or want to get in contact, here is the XivHub.org discord: http
 
 # other
 - [crafting.xivhub.org](https://crafting.xivhub.org/)
+
+Dalamud repo:
+
+`https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json`
